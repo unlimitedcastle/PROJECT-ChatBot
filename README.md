@@ -3,6 +3,6 @@
 ## prerequisites
 python = 3.11.9
 ### dependencies
-- pip install streamlit
+- '''python pip install streamlit'''
 
 
